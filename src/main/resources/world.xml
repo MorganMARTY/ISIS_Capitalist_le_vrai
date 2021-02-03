@@ -105,23 +105,122 @@
   </allunlocks>
   <upgrades>
     <pallier>
-      <name>str1234</name>
+      <name>Choco-grenouille 1</name>
       <logo>str1234</logo>
-      <seuil>123</seuil>
-      <idcible>123</idcible>
-      <ratio>3.1415926535</ratio>
-      <typeratio>vitesse</typeratio>
+      <seuil>250000</seuil>
+      <idcible>1</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>La gazette du sorcier 1</name>
+      <logo>str1234</logo>
+      <seuil>500000</seuil>
+      <idcible>2</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>Choco-grenouille 2</name>
+      <logo>str1234</logo>
+      <seuil>1000000</seuil>
+      <idcible>1</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>La gazette du sorcier 2</name>
+      <logo>str1234</logo>
+      <seuil>2000000</seuil>
+      <idcible>2</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>Choco-grenouille 3</name>
+      <logo>str1234</logo>
+      <seuil>5000000</seuil>
+      <idcible>1</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>La gazette du sorcier 3</name>
+      <logo>str1234</logo>
+      <seuil>7500000</seuil>
+      <idcible>2</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>Choco-grenouille 4</name>
+      <logo>str1234</logo>
+      <seuil>10000000</seuil>
+      <idcible>1</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>La gazette du sorcier 4</name>
+      <logo>str1234</logo>
+      <seuil>20000000</seuil>
+      <idcible>2</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>Choco-grenouille 5</name>
+      <logo>str1234</logo>
+      <seuil>5000000</seuil>
+      <idcible>1</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>La gazette du sorcier 5</name>
+      <logo>str1234</logo>
+      <seuil>7500000</seuil>
+      <idcible>2</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
       <unlocked>true</unlocked>
     </pallier>
   </upgrades>
   <angelupgrades>
     <pallier>
-      <name>str1234</name>
+      <name>Nick quasi-sans tête</name>
       <logo>str1234</logo>
-      <seuil>123</seuil>
-      <idcible>123</idcible>
-      <ratio>3.1415926535</ratio>
-      <typeratio>vitesse</typeratio>
+      <seuil>10000</seuil>
+      <idcible>0</idcible>
+      <ratio>3</ratio>
+      <typeratio>gain</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>Peeves</name>
+      <logo>str1234</logo>
+      <seuil>100000</seuil>
+      <idcible>0</idcible>
+      <ratio>2</ratio>
+      <typeratio>ange</typeratio>
+      <unlocked>true</unlocked>
+    </pallier>
+    <pallier>
+      <name>Dame grise</name>
+      <logo>icones/Dame grise.jpg</logo>
+      <seuil>100000000</seuil>
+      <idcible>0</idcible>
+      <ratio>2</ratio>
+      <typeratio>ange</typeratio>
       <unlocked>true</unlocked>
     </pallier>
   </angelupgrades>
