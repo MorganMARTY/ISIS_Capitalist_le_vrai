@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <world>
   <name>Terre</name>
-  <logo>str1234</logo>
+  <logo>icones/Poudlard_chateau.jpg</logo>
   <money>0</money>
   <score>0</score>
   <totalangels>0</totalangels>
@@ -12,7 +12,7 @@
     <product>
       <id>1</id>
       <name>Choco-grenouilles</name>
-      <logo>str1234</logo>
+      <logo>icones/chocogrenouille.jpg</logo>
       <cout>4</cout>
       <croissance>1.07</croissance>
       <revenu>1</revenu>
@@ -53,7 +53,7 @@
     <product>
       <id>2</id>
       <name>La gazette du sorcier</name>
-      <logo>str1234</logo>
+      <logo>icones/gazette_sorcier.jpg</logo>
       <cout>60</cout>
       <croissance>1.15</croissance>
       <revenu>60</revenu>
@@ -94,7 +94,7 @@
     <product>
       <id>6</id>
       <name>Nimbus 2000</name>
-      <logo>str1234</logo>
+      <logo>icones/nimbus_2000.jpg</logo>
       <cout>720</cout>
       <croissance>1.14</croissance>
       <revenu>540</revenu>
@@ -135,7 +135,7 @@
     <product>
       <id>3</id>
       <name>Bieraubeurre</name>
-      <logo>str1234</logo>
+      <logo>icones/bieraubeurre.jpg</logo>
       <cout>8640</cout>
       <croissance>1.13</croissance>
       <revenu>4320</revenu>
@@ -176,7 +176,7 @@
     <product>
       <id>4</id>
       <name>Chouette</name>
-      <logo>str1234</logo>
+      <logo>icones/chouette.jpg</logo>
       <cout>103680</cout>
       <croissance>1.12</croissance>
       <revenu>51840</revenu>
@@ -217,7 +217,7 @@
     <product>
       <id>5</id>
       <name>Baguette magique</name>
-      <logo>str1234</logo>
+      <logo>icones/baguette_magique.jpg</logo>
       <cout>1244160</cout>
       <croissance>1.11</croissance>
       <revenu>622080</revenu>
