@@ -91,47 +91,7 @@
         </pallier>
       </palliers>
     </product>
-    <product>
-      <id>6</id>
-      <name>Nimbus 2000</name>
-      <logo>icones/nimbus_2000.jpg</logo>
-      <cout>720</cout>
-      <croissance>1.14</croissance>
-      <revenu>540</revenu>
-      <vitesse>6000</vitesse>
-      <quantite>0</quantite>
-      <timeleft>0</timeleft>
-      <managerUnlocked>false</managerUnlocked>
-      <palliers>
-        <pallier>
-          <name>Pallier 1</name>
-          <logo>str1234</logo>
-          <seuil>50</seuil>
-          <idcible>6</idcible>
-          <ratio>2</ratio>
-          <typeratio>gain</typeratio>
-          <unlocked>true</unlocked>
-        </pallier>
-        <pallier>
-          <name>Pallier 2</name>
-          <logo>str1234</logo>
-          <seuil>100</seuil>
-          <idcible>6</idcible>
-          <ratio>2</ratio>
-          <typeratio>vitesse</typeratio>
-          <unlocked>true</unlocked>
-        </pallier>
-        <pallier>
-          <name>Pallier 3</name>
-          <logo>str1234</logo>
-          <seuil>150</seuil>
-          <idcible>6</idcible>
-          <ratio>5</ratio>
-          <typeratio>gain</typeratio>
-          <unlocked>true</unlocked>
-        </pallier>
-      </palliers>
-    </product>
+    
     <product>
       <id>3</id>
       <name>Bieraubeurre</name>
@@ -249,6 +209,47 @@
           <logo>str1234</logo>
           <seuil>150</seuil>
           <idcible>5</idcible>
+          <ratio>5</ratio>
+          <typeratio>gain</typeratio>
+          <unlocked>true</unlocked>
+        </pallier>
+      </palliers>
+    </product>
+    <product>
+      <id>6</id>
+      <name>Nimbus 2000</name>
+      <logo>icones/nimbus_2000.jpg</logo>
+      <cout>720</cout>
+      <croissance>1.14</croissance>
+      <revenu>540</revenu>
+      <vitesse>6000</vitesse>
+      <quantite>0</quantite>
+      <timeleft>0</timeleft>
+      <managerUnlocked>false</managerUnlocked>
+      <palliers>
+        <pallier>
+          <name>Pallier 1</name>
+          <logo>str1234</logo>
+          <seuil>50</seuil>
+          <idcible>6</idcible>
+          <ratio>2</ratio>
+          <typeratio>gain</typeratio>
+          <unlocked>true</unlocked>
+        </pallier>
+        <pallier>
+          <name>Pallier 2</name>
+          <logo>str1234</logo>
+          <seuil>100</seuil>
+          <idcible>6</idcible>
+          <ratio>2</ratio>
+          <typeratio>vitesse</typeratio>
+          <unlocked>true</unlocked>
+        </pallier>
+        <pallier>
+          <name>Pallier 3</name>
+          <logo>str1234</logo>
+          <seuil>150</seuil>
+          <idcible>6</idcible>
           <ratio>5</ratio>
           <typeratio>gain</typeratio>
           <unlocked>true</unlocked>
