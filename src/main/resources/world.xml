@@ -96,7 +96,7 @@
       <id>3</id>
       <name>Bieraubeurre</name>
       <logo>icones/bieraubeurre.jpg</logo>
-      <cout>8640</cout>
+      <cout>720</cout>
       <croissance>1.13</croissance>
       <revenu>4320</revenu>
       <vitesse>8000</vitesse>
@@ -137,7 +137,7 @@
       <id>4</id>
       <name>Chouette</name>
       <logo>icones/chouette.jpg</logo>
-      <cout>103680</cout>
+      <cout>8640</cout>
       <croissance>1.12</croissance>
       <revenu>51840</revenu>
       <vitesse>18000</vitesse>
@@ -178,7 +178,7 @@
       <id>5</id>
       <name>Baguette magique</name>
       <logo>icones/baguette_magique.jpg</logo>
-      <cout>1244160</cout>
+      <cout>103680</cout>
       <croissance>1.11</croissance>
       <revenu>622080</revenu>
       <vitesse>40000</vitesse>
@@ -219,7 +219,7 @@
       <id>6</id>
       <name>Nimbus 2000</name>
       <logo>icones/nimbus_2000.jpg</logo>
-      <cout>720</cout>
+      <cout>1244160</cout>
       <croissance>1.14</croissance>
       <revenu>540</revenu>
       <vitesse>90000</vitesse>
