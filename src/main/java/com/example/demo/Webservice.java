@@ -5,9 +5,12 @@
  */
 package com.example.demo;
 
+import generated.World;
+import javax.servlet.http.HttpServletRequest;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
+import javax.ws.rs.core.Context;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
@@ -27,9 +30,10 @@ public class Webservice {
     @GET
     @Path("world")
     @Produces({MediaType.APPLICATION_XML, MediaType.APPLICATION_JSON})
-
-    public Response getWorld() {
-        return Response.ok(services.getWorld()).build();
+    public Response getWorld(@Context HttpServletRequest request) {
+        String username = request.getHeader("X-user");
+        World world = this.services.getWorld(username);
+        this.services.saveWorldToXml(world, username);
+        return Response.ok(services.getWorld(username)).build();
     }
-
 }
