@@ -91,10 +91,10 @@ public class Services {
             world.setMoney(world.getMoney() - achat);
 
             // achetée et mettre à jour la quantité de product 
-            product.setQuantite(newproduct.getQuantite());
-            product.setCout(newproduct.getCout());
+            int qte=newproduct.getQuantite();
+            product.setQuantite(qte);
         } else {
-            product.setTimeleft(product.getVitesse());
+           product.timeleft=product.vitesse;
             // initialiser product.timeleft à product.vitesse
             // pour lancer la production
         }
@@ -104,12 +104,13 @@ public class Services {
     }
 
     private ProductType findProductById(World world, int id) {
-        for (ProductType product : world.getProducts().getProduct()) {
-            if (product.getId() == id) {
-                return product;
+        ProductType product = null;
+        for (ProductType p : world.getProducts().getProduct()) {
+            if (p.getId() == id) {
+                product = p;
             }
         }
-        return null;
+        return product;
     }
 
     public Boolean updateManager(String username, PallierType newmanager) {
@@ -139,14 +140,16 @@ public class Services {
     }
 
     private PallierType findManagerByName(World world, String name) {
-        for (PallierType manager : world.getManagers().getPallier()) {
-            if (manager.getName() == name) {
-                return manager;
+        PallierType manager = null;
+        for (PallierType palier : world.getManagers().getPallier()) {
+            if (palier.getName().equals(name)) {
+                manager = palier;
             }
         }
-        return null;
+        return manager;
     }
-     private void updateScore(World world) {
+
+    private void updateScore(World world) {
         long tempsEcoule = System.currentTimeMillis() - world.getLastupdate();
         for (ProductType product : world.getProducts().getProduct()) {
             if (!product.isManagerUnlocked()) {

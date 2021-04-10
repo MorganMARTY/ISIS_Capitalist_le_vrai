@@ -67,9 +67,9 @@ public class ProductType {
     protected double cout;
     protected double croissance;
     protected double revenu;
-    protected int vitesse;
+    public int vitesse;
     protected int quantite;
-    protected long timeleft;
+    public long timeleft;
     protected boolean managerUnlocked;
     @XmlElement(required = true)
     protected PalliersType palliers;
