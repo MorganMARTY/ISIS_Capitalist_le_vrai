@@ -394,7 +394,7 @@
             <seuil>1000</seuil>
             <idcible>1</idcible>
             <ratio>0.0</ratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Ginny Weasley</name>
@@ -402,23 +402,7 @@
             <seuil>15000</seuil>
             <idcible>2</idcible>
             <ratio>0.0</ratio>
-            <unlocked>true</unlocked>
-        </pallier>
-        <pallier>
-            <name>Harry Potter</name>
-            <logo>icones/harry_potter.jpg</logo>
-            <seuil>10000000</seuil>
-            <idcible>6</idcible>
-            <ratio>0.0</ratio>
-            <unlocked>true</unlocked>
-        </pallier>
-        <pallier>
-            <name>Hedwige</name>
-            <logo>icones/Hedwige.jpg</logo>
-            <seuil>500000</seuil>
-            <idcible>4</idcible>
-            <ratio>0.0</ratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Fred et George Weasley</name>
@@ -426,7 +410,15 @@
             <seuil>100000</seuil>
             <idcible>3</idcible>
             <ratio>0.0</ratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+            <name>Hedwige</name>
+            <logo>icones/Hedwige.jpg</logo>
+            <seuil>500000</seuil>
+            <idcible>4</idcible>
+            <ratio>0.0</ratio>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Albus Dumbledore</name>
@@ -434,7 +426,15 @@
             <seuil>1200000</seuil>
             <idcible>5</idcible>
             <ratio>0.0</ratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+            <name>Harry Potter</name>
+            <logo>icones/harry_potter.jpg</logo>
+            <seuil>10000000</seuil>
+            <idcible>6</idcible>
+            <ratio>0.0</ratio>
+            <unlocked>false</unlocked>
         </pallier>
     </managers>
 </world>
