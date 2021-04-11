@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><world>
     <name>Terre</name>
     <logo>icones/Poudlard_chateau.jpg</logo>
-    <money>2000.0</money>
+    <money>0.0</money>
     <score>0.0</score>
     <totalangels>0.0</totalangels>
     <activeangels>0.0</activeangels>
@@ -27,7 +27,7 @@
                     <idcible>1</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 2</name>
@@ -36,7 +36,7 @@
                     <idcible>1</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 3</name>
@@ -45,7 +45,7 @@
                     <idcible>1</idcible>
                     <ratio>5.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
             </palliers>
         </product>
@@ -68,7 +68,7 @@
                     <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 2</name>
@@ -77,7 +77,7 @@
                     <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 3</name>
@@ -86,7 +86,7 @@
                     <idcible>2</idcible>
                     <ratio>4.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
             </palliers>
         </product>
@@ -109,7 +109,7 @@
                     <idcible>3</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 2</name>
@@ -118,7 +118,7 @@
                     <idcible>3</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 3</name>
@@ -127,7 +127,7 @@
                     <idcible>3</idcible>
                     <ratio>5.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
             </palliers>
         </product>
@@ -150,7 +150,7 @@
                     <idcible>4</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 2</name>
@@ -159,7 +159,7 @@
                     <idcible>4</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 3</name>
@@ -168,7 +168,7 @@
                     <idcible>4</idcible>
                     <ratio>5.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
             </palliers>
         </product>
@@ -191,7 +191,7 @@
                     <idcible>5</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 2</name>
@@ -200,7 +200,7 @@
                     <idcible>5</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 3</name>
@@ -209,7 +209,7 @@
                     <idcible>5</idcible>
                     <ratio>5.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
             </palliers>
         </product>
@@ -232,7 +232,7 @@
                     <idcible>6</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 2</name>
@@ -241,7 +241,7 @@
                     <idcible>6</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
                 <pallier>
                     <name>Pallier 3</name>
@@ -250,7 +250,7 @@
                     <idcible>6</idcible>
                     <ratio>5.0</ratio>
                     <typeratio>gain</typeratio>
-                    <unlocked>true</unlocked>
+                    <unlocked>false</unlocked>
                 </pallier>
             </palliers>
         </product>
@@ -263,7 +263,7 @@
             <idcible>0</idcible>
             <ratio>3.0</ratio>
             <typeratio>vitesse</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
     </allunlocks>
     <upgrades>
@@ -274,7 +274,7 @@
             <idcible>1</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>La gazette du sorcier 1</name>
@@ -283,7 +283,7 @@
             <idcible>2</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Choco-grenouille 2</name>
@@ -292,7 +292,7 @@
             <idcible>1</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>La gazette du sorcier 2</name>
@@ -301,7 +301,7 @@
             <idcible>2</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Choco-grenouille 3</name>
@@ -310,7 +310,7 @@
             <idcible>1</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>La gazette du sorcier 3</name>
@@ -319,7 +319,7 @@
             <idcible>2</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Choco-grenouille 4</name>
@@ -328,7 +328,7 @@
             <idcible>1</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>La gazette du sorcier 4</name>
@@ -337,7 +337,7 @@
             <idcible>2</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Choco-grenouille 5</name>
@@ -346,7 +346,7 @@
             <idcible>1</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>La gazette du sorcier 5</name>
@@ -355,7 +355,7 @@
             <idcible>2</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
     </upgrades>
     <angelupgrades>
@@ -366,7 +366,7 @@
             <idcible>0</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Peeves</name>
@@ -375,7 +375,7 @@
             <idcible>0</idcible>
             <ratio>2.0</ratio>
             <typeratio>ange</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>Dame grise</name>
@@ -384,7 +384,7 @@
             <idcible>0</idcible>
             <ratio>2.0</ratio>
             <typeratio>ange</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
     </angelupgrades>
     <managers>
